@@ -16,6 +16,7 @@ export default {
     created() {
         console.log("router", this.$router) // info about router.js
         console.log("route", this.$route) // info about this page route
+        console.log("test")
     }
 }
 </script>
